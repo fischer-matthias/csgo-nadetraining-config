@@ -17,8 +17,6 @@ this.nadeSaveMode	<- true;
 this.nadeLastNade	<- null;
 this.nadeIsPaused	<- false;
 
-// SendToConsole("exec nadetraining");
-
 function nadeSetup() {
 
 	if (!Entities.FindByName(null, "nadeTimer"))
