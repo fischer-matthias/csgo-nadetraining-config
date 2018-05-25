@@ -10,10 +10,12 @@
 3. After the map has been reloaded, the vscript can be executed by pressing the `F10` key.
 
 ## Commands
-- F10: Execute the vscript
-- MOUSE5: noclip
-- RALT: Start/Stop nadetraining script
-- RCTRL: Save next nade
+| Key | Command |
+| --- | --- |
+| F10 | Execute the vscript |
+| MOUSE5 | noclip |
+| RALT | Start/Stop nadetraining script |
+| RCTRL | Save next nade |
 
 ## Credits
 - [nadetraing-vscript: S0lll0s, Bidj, Rurre and Mellet](https://github.com/s-ol/csgo-vscripts)
