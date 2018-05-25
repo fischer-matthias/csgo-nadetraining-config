@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: [CSGO Nadetraining-Config]
+description: [Just a simple nadetraining config, based on nadetraing-vscript from S0lll0s, Bidj, Rurre and Mellet]
+show_downloads: ["true"]
+plugins:
+  - jemoji
