@@ -10,6 +10,7 @@
 3. After the map has been reloaded, the vscript can be executed by pressing the `F10` key.
 
 ## Commands
+
 | Key | Command |
 | --- | --- |
 | F10 | Execute the vscript |
